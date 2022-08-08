@@ -1,12 +1,25 @@
+from cmath import log
 import spacy
 import re
 import string
 import nltk
+import textwrap
+from fpdf import FPDF
+from logger import Logger
+import os
+import base64
+
+
+file = open("log.txt", "a+")
+logger = Logger()
+
+
 # python -m spacy download en_core_web_sm
 nlp = spacy.load("en_core_web_sm")
 
 
 def preprocessing(text):
+    logger.log(file, "started cleaning data")
     # Make lower
     text = text.lower()
 
@@ -28,7 +41,7 @@ def preprocessing(text):
 
         text_filtered = [word for word in text if not word in lis]
 
-
+    
     return " ".join(text_filtered)
 
 def text_process(text):
@@ -39,4 +52,9 @@ def text_process(text):
 
     data = doc.ents
     data = " ".join(str(d) for d in data)
+
+    if data == "":
+        data = "None Keyword Found"
+    logger.log(file, "data cleaned and returned")
     return data
+
