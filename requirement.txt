@@ -1,7 +1,7 @@
-docx2txt
-streamlit
-PyPDF2
-nltk
-fpdf
-aspose
-python-docx
+docx2txt==0.8
+streamlit==1.11.1
+streamlit-quill==0.0.3
+PyPDF2==2.9.0
+fpdf==1.7.2
+python-docx==0.8.11
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz

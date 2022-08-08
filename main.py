@@ -8,7 +8,6 @@ import os
 import time
 from streamlit_quill import st_quill
 from process import text_process, text_to_pdf, show_pdf, create_download_link, text_doc
-import socket
 from docx import Document
 
 

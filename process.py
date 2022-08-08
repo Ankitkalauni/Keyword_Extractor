@@ -50,8 +50,6 @@ def preprocessing(text):
 
 def text_process(text):
     text = preprocessing(text)
-    with open('temp.txt', 'w') as temp:
-                temp.write(text)
     doc = nlp(text)
 
     data = doc.ents
