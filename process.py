@@ -18,7 +18,6 @@ file = open("log.txt", "a+")
 logger = Logger()
 
 
-@st.cache(ignore_hash=True)
 def load_model(name):
     return spacy.load(name)
 
