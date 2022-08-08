@@ -40,7 +40,7 @@ def preprocessing(text):
 
     text = text.split()
 
-    with open("./stopwords.txt",'r') as useless_words:
+    with open(os.path.join("stopwords.txt"),'r') as useless_words:
         lis = useless_words.read().split("\n")
 
         lis = lis + ['hi', 'im']    

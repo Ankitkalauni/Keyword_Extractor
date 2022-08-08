@@ -17,7 +17,7 @@ file = open("log.txt", "a+")
 logger = Logger()
 
 def save_to_file(str_data, readmode = "w"):
-    with open("./userdata.txt", readmode) as file_obj:
+    with open(os.path.join("userdata.txt"), readmode) as file_obj:
         file_obj.write(str_data)
     logger.log(file, "file saved")
 
@@ -84,10 +84,10 @@ if __name__ == '__main__':
             "Download as",
             ('PDF', 'DOC'))
 
-            with open("userdata.txt", 'r', encoding="latin-1") as df:
+            with open(os.path.join("userdata.txt"), 'r', encoding="latin-1") as df:
                 if genre == 'PDF':
                     text_to_pdf(df, 'keywords.pdf')
-                    with open("./keywords.pdf", "rb") as pdf_file:
+                    with open(os.path.join("keywords.pdf"), "rb") as pdf_file:
                         PDFbyte = pdf_file.read()
 
                         st.download_button(label="Export as PDF",
@@ -97,7 +97,7 @@ if __name__ == '__main__':
 
                 else:
                     text_doc(df, 'keywords')
-                    with open("./keywords.doc", "rb") as doc_file:
+                    with open(os.path.join("keywords.doc"), "rb") as doc_file:
                         docbyte = doc_file.read()
 
                         st.download_button(label="Export as DOC",
