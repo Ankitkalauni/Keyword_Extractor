@@ -74,7 +74,6 @@ def text_to_pdf(text, filename):
 
 def text_doc(file, filename):
     doc = Document()
-    st.write("bro")
     line = file.read()
     doc.add_paragraph(line)
     doc.save(filename + ".doc")

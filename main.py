@@ -10,7 +10,7 @@ from streamlit_quill import st_quill
 from process import text_process, text_to_pdf, show_pdf, create_download_link, text_doc
 from docx import Document
 
-
+ 
 
 
 file = open("log.txt", "a+")
@@ -39,6 +39,7 @@ def get_doc(uploaded_file):
 
 
             logger.log(file, "updated data to session from doc string")
+            st.session_state['load_editor'] = True
             return str_data
 
 def run_editor(str_data, key = "editor"):
@@ -53,6 +54,8 @@ def run_editor(str_data, key = "editor"):
 
 if "load_state" not in st.session_state:
     st.session_state['load_state'] = False
+    st.session_state['load_editor'] = False
+    st.session_state['str_value'] = None
 
 
 if __name__ == '__main__':
@@ -60,12 +63,15 @@ if __name__ == '__main__':
     st.session_state['load_state'] = True
     boundary = "\n"*4 + "=====Keywords======" + "\n"*4
 
+
+    
     logger.log(file, "init done")
     uploaded_file = st.file_uploader("Upload Doc or Docx File Only",type = [".doc","docx"])
     str_data = get_doc(uploaded_file)
 
-    
-    data = run_editor(str_data)
+    if str_data or st.session_state['load_editor']:
+        data = run_editor(str_data)
+
     if st.session_state['str_value'] is not None:
         st.session_state['user_data'] = 1
 

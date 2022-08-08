@@ -2156,3 +2156,52 @@
 2022-08-08/22:03:13		user edited data saved. no extracting data
 2022-08-08/22:03:13		file saved
 2022-08-08/22:03:13		data extracted and appended to the original userdata
+2022-08-09/00:38:43		init done
+2022-08-09/00:39:57		init done
+2022-08-09/00:40:42		init done
+2022-08-09/00:40:48		init done
+2022-08-09/00:40:49		init done
+2022-08-09/00:40:54		init done
+2022-08-09/00:40:59		init done
+2022-08-09/00:41:01		init done
+2022-08-09/00:41:01		data processed to str
+2022-08-09/00:41:01		updated data to session from doc string
+2022-08-09/00:41:01		starting editor
+2022-08-09/00:41:01		returning editor new content
+2022-08-09/00:41:01		Saving userdata
+2022-08-09/00:41:01		file saved
+2022-08-09/00:41:01		user edited data saved. no extracting data
+2022-08-09/00:41:01		file saved
+2022-08-09/00:41:01		data extracted and appended to the original userdata
+2022-08-09/00:41:02		init done
+2022-08-09/00:41:02		starting editor
+2022-08-09/00:41:02		returning editor new content
+2022-08-09/00:41:02		Saving userdata
+2022-08-09/00:41:02		file saved
+2022-08-09/00:41:02		user edited data saved. no extracting data
+2022-08-09/00:41:02		file saved
+2022-08-09/00:41:02		data extracted and appended to the original userdata
+2022-08-09/00:41:05		init done
+2022-08-09/00:41:05		starting editor
+2022-08-09/00:41:05		returning editor new content
+2022-08-09/00:41:05		Saving userdata
+2022-08-09/00:41:05		file saved
+2022-08-09/00:41:05		user edited data saved. no extracting data
+2022-08-09/00:41:05		file saved
+2022-08-09/00:41:05		data extracted and appended to the original userdata
+2022-08-09/00:41:07		init done
+2022-08-09/00:41:07		starting editor
+2022-08-09/00:41:07		returning editor new content
+2022-08-09/00:41:07		Saving userdata
+2022-08-09/00:41:07		file saved
+2022-08-09/00:41:07		user edited data saved. no extracting data
+2022-08-09/00:41:07		file saved
+2022-08-09/00:41:07		data extracted and appended to the original userdata
+2022-08-09/00:41:08		init done
+2022-08-09/00:41:08		starting editor
+2022-08-09/00:41:08		returning editor new content
+2022-08-09/00:41:08		Saving userdata
+2022-08-09/00:41:08		file saved
+2022-08-09/00:41:08		user edited data saved. no extracting data
+2022-08-09/00:41:08		file saved
+2022-08-09/00:41:08		data extracted and appended to the original userdata
