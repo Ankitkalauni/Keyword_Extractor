@@ -4,3 +4,4 @@ PyPDF2
 nltk
 fpdf
 aspose
+python-docx

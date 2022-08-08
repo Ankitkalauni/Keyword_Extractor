@@ -8,6 +8,10 @@ from fpdf import FPDF
 from logger import Logger
 import os
 import base64
+import streamlit as st
+from docx import Document
+
+
 
 
 file = open("log.txt", "a+")
@@ -58,3 +62,40 @@ def text_process(text):
     logger.log(file, "data cleaned and returned")
     return data
 
+
+
+
+def text_to_pdf(text, filename):
+    pdf = FPDF()  
+    pdf.add_page()
+
+    pdf.set_font("Arial", size = 15)
+    
+    # insert the texts in pdf
+    for x in text:
+        pdf.cell(0, 4, txt = x, ln = 1, align = 'C')
+    
+    # save the pdf with name .pdf
+    pdf.output(filename) 
+
+    logger.log(file, "PDF File saved")
+
+def text_doc(file, filename):
+    doc = Document()
+    st.write("bro")
+    line = file.read()
+    doc.add_paragraph(line)
+    doc.save(filename + ".doc")
+
+
+
+
+def show_pdf(file_path):
+    with open(file_path,"rb") as f:
+        base64_pdf = base64.b64encode(f.read()).decode('utf-8')
+    pdf_display = f'<iframe src="data:application/pdf;base64,{base64_pdf}" width="800" height="800" type="application/pdf"></iframe>'
+    st.markdown(pdf_display, unsafe_allow_html=True)
+
+def create_download_link(val, filename):
+    b64 = base64.b64encode(val)  # val looks like b'...'
+    return f'<a href="data:application/octet-stream;base64,{b64.decode()}" download="{filename}.pdf">Download file</a>'
