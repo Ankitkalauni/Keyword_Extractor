@@ -1,3 +1,4 @@
+from nbformat import read
 import streamlit as st
 from io import StringIO 
 import docx2txt
@@ -6,7 +7,7 @@ from PyPDF2 import PdfFileReader
 import os
 import time
 from streamlit_quill import st_quill
-
+from process import text_process
 
 file = open("log.txt", "a+")
 logger = Logger()
@@ -51,6 +52,9 @@ def run_editor(str_data):
 
 if __name__ == '__main__':  
     st.session_state['user_data'] = 0
+    boundary = "\n"*4 + "=====Keywords======" + "\n"*4
+
+
     uploaded_file = st.file_uploader("Upload Doc or Docx File Only",type = [".doc","docx"])
     str_data = get_doc(uploaded_file)
 
@@ -60,9 +64,18 @@ if __name__ == '__main__':
         st.session_state['user_data'] = 1
 
     if st.session_state['user_data']:
-        if st.button("save"):
-            save_to_file(data)
+        if st.button("save & Extract"):
 
-            st.write(data)
-    
+            data = data + boundary
+            save_to_file(data)
+            save_to_file(text_process(data), readmode="a+")
+
+            with open("userdata.txt",'r') as df:
+                st.write(df.read())
+
+
+
+            
+
+            
     

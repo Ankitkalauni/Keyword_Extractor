@@ -1,3 +1,4 @@
 docx2txt
 streamlit
 PyPDF2
+nltk

@@ -1,9 +1,204 @@
-2022-08-08/18:19:52		starting editor
-2022-08-08/18:19:52		returning editor new content
-2022-08-08/18:19:52		file saved
-2022-08-08/18:20:31		data processed to str
-2022-08-08/18:20:31		updated data to session from doc string
-2022-08-08/18:20:31		starting editor
-2022-08-08/18:20:31		returning editor new content
-2022-08-08/18:20:32		starting editor
-2022-08-08/18:20:32		returning editor new content
+2022-08-08/18:45:05		starting editor
+2022-08-08/18:45:05		returning editor new content
+2022-08-08/18:45:17		starting editor
+2022-08-08/18:45:17		returning editor new content
+2022-08-08/18:45:18		starting editor
+2022-08-08/18:45:18		returning editor new content
+2022-08-08/18:45:20		starting editor
+2022-08-08/18:45:20		returning editor new content
+2022-08-08/18:45:22		data processed to str
+2022-08-08/18:45:22		updated data to session from doc string
+2022-08-08/18:45:22		starting editor
+2022-08-08/18:45:22		returning editor new content
+2022-08-08/18:45:22		starting editor
+2022-08-08/18:45:22		returning editor new content
+2022-08-08/18:45:26		starting editor
+2022-08-08/18:45:26		returning editor new content
+2022-08-08/18:45:26		file saved
+2022-08-08/18:47:41		starting editor
+2022-08-08/18:47:41		returning editor new content
+2022-08-08/18:47:41		file saved
+2022-08-08/18:47:45		data processed to str
+2022-08-08/18:47:45		updated data to session from doc string
+2022-08-08/18:47:45		starting editor
+2022-08-08/18:47:45		returning editor new content
+2022-08-08/18:47:46		starting editor
+2022-08-08/18:47:46		returning editor new content
+2022-08-08/18:47:47		starting editor
+2022-08-08/18:47:47		returning editor new content
+2022-08-08/18:47:47		file saved
+2022-08-08/18:49:03		starting editor
+2022-08-08/18:49:03		returning editor new content
+2022-08-08/18:49:03		file saved
+2022-08-08/18:50:35		starting editor
+2022-08-08/18:50:35		returning editor new content
+2022-08-08/18:50:35		file saved
+2022-08-08/18:51:27		starting editor
+2022-08-08/18:51:27		returning editor new content
+2022-08-08/18:51:27		file saved
+2022-08-08/18:51:34		starting editor
+2022-08-08/18:51:34		returning editor new content
+2022-08-08/18:51:34		file saved
+2022-08-08/18:51:57		starting editor
+2022-08-08/18:51:57		returning editor new content
+2022-08-08/18:51:57		file saved
+2022-08-08/18:52:04		starting editor
+2022-08-08/18:52:04		returning editor new content
+2022-08-08/18:52:04		file saved
+2022-08-08/18:52:48		starting editor
+2022-08-08/18:52:48		returning editor new content
+2022-08-08/18:52:48		file saved
+2022-08-08/18:53:25		starting editor
+2022-08-08/18:53:25		returning editor new content
+2022-08-08/18:53:25		file saved
+2022-08-08/18:55:45		starting editor
+2022-08-08/18:55:45		returning editor new content
+2022-08-08/18:55:45		file saved
+2022-08-08/18:56:06		starting editor
+2022-08-08/18:56:06		returning editor new content
+2022-08-08/18:56:06		file saved
+2022-08-08/18:56:35		starting editor
+2022-08-08/18:56:35		returning editor new content
+2022-08-08/18:56:35		file saved
+2022-08-08/18:57:09		starting editor
+2022-08-08/18:57:09		returning editor new content
+2022-08-08/18:57:09		file saved
+2022-08-08/18:58:34		starting editor
+2022-08-08/18:58:34		returning editor new content
+2022-08-08/18:58:34		starting editor
+2022-08-08/18:58:34		returning editor new content
+2022-08-08/18:58:37		starting editor
+2022-08-08/18:58:37		returning editor new content
+2022-08-08/18:58:38		data processed to str
+2022-08-08/18:58:38		updated data to session from doc string
+2022-08-08/18:58:38		starting editor
+2022-08-08/18:58:38		returning editor new content
+2022-08-08/18:58:38		starting editor
+2022-08-08/18:58:38		returning editor new content
+2022-08-08/18:58:40		starting editor
+2022-08-08/18:58:40		returning editor new content
+2022-08-08/18:58:40		file saved
+2022-08-08/18:59:08		starting editor
+2022-08-08/18:59:08		returning editor new content
+2022-08-08/18:59:10		starting editor
+2022-08-08/18:59:10		returning editor new content
+2022-08-08/18:59:10		file saved
+2022-08-08/19:01:13		starting editor
+2022-08-08/19:01:13		returning editor new content
+2022-08-08/19:03:45		starting editor
+2022-08-08/19:03:45		returning editor new content
+2022-08-08/19:03:47		starting editor
+2022-08-08/19:03:47		returning editor new content
+2022-08-08/19:04:25		starting editor
+2022-08-08/19:04:25		returning editor new content
+2022-08-08/19:04:30		starting editor
+2022-08-08/19:04:30		returning editor new content
+2022-08-08/19:04:32		data processed to str
+2022-08-08/19:04:32		updated data to session from doc string
+2022-08-08/19:04:32		starting editor
+2022-08-08/19:04:32		returning editor new content
+2022-08-08/19:04:32		starting editor
+2022-08-08/19:04:32		returning editor new content
+2022-08-08/19:04:34		starting editor
+2022-08-08/19:04:34		returning editor new content
+2022-08-08/19:04:34		file saved
+2022-08-08/19:05:07		data processed to str
+2022-08-08/19:05:07		updated data to session from doc string
+2022-08-08/19:05:07		starting editor
+2022-08-08/19:05:07		returning editor new content
+2022-08-08/19:05:07		starting editor
+2022-08-08/19:05:07		returning editor new content
+2022-08-08/19:05:09		starting editor
+2022-08-08/19:05:09		returning editor new content
+2022-08-08/19:05:09		file saved
+2022-08-08/19:05:21		starting editor
+2022-08-08/19:05:21		returning editor new content
+2022-08-08/19:05:24		starting editor
+2022-08-08/19:05:24		returning editor new content
+2022-08-08/19:05:25		starting editor
+2022-08-08/19:05:25		returning editor new content
+2022-08-08/19:05:25		file saved
+2022-08-08/19:05:27		data processed to str
+2022-08-08/19:05:27		updated data to session from doc string
+2022-08-08/19:05:27		starting editor
+2022-08-08/19:05:27		returning editor new content
+2022-08-08/19:05:28		starting editor
+2022-08-08/19:05:28		returning editor new content
+2022-08-08/19:05:29		starting editor
+2022-08-08/19:05:29		returning editor new content
+2022-08-08/19:05:29		file saved
+2022-08-08/19:09:06		starting editor
+2022-08-08/19:09:06		returning editor new content
+2022-08-08/19:09:06		file saved
+2022-08-08/19:10:40		starting editor
+2022-08-08/19:10:40		returning editor new content
+2022-08-08/19:10:40		file saved
+2022-08-08/19:11:04		starting editor
+2022-08-08/19:11:04		returning editor new content
+2022-08-08/19:11:04		file saved
+2022-08-08/19:27:42		starting editor
+2022-08-08/19:27:42		returning editor new content
+2022-08-08/19:27:42		file saved
+2022-08-08/19:34:02		starting editor
+2022-08-08/19:34:02		returning editor new content
+2022-08-08/19:34:04		starting editor
+2022-08-08/19:34:04		returning editor new content
+2022-08-08/19:34:04		file saved
+2022-08-08/19:34:37		starting editor
+2022-08-08/19:34:37		returning editor new content
+2022-08-08/19:34:37		file saved
+2022-08-08/19:34:58		starting editor
+2022-08-08/19:34:58		returning editor new content
+2022-08-08/19:34:58		file saved
+2022-08-08/19:35:10		starting editor
+2022-08-08/19:35:10		returning editor new content
+2022-08-08/19:35:10		file saved
+2022-08-08/19:35:25		starting editor
+2022-08-08/19:35:25		returning editor new content
+2022-08-08/19:35:25		file saved
+2022-08-08/19:35:35		starting editor
+2022-08-08/19:35:35		returning editor new content
+2022-08-08/19:35:35		file saved
+2022-08-08/19:39:27		starting editor
+2022-08-08/19:39:27		returning editor new content
+2022-08-08/19:39:27		file saved
+2022-08-08/19:40:20		starting editor
+2022-08-08/19:40:20		returning editor new content
+2022-08-08/19:40:20		file saved
+2022-08-08/19:40:33		starting editor
+2022-08-08/19:40:33		returning editor new content
+2022-08-08/19:40:33		file saved
+2022-08-08/19:41:32		starting editor
+2022-08-08/19:41:32		returning editor new content
+2022-08-08/19:41:32		file saved
+2022-08-08/19:42:05		starting editor
+2022-08-08/19:42:05		returning editor new content
+2022-08-08/19:42:05		file saved
+2022-08-08/19:42:16		starting editor
+2022-08-08/19:42:16		returning editor new content
+2022-08-08/19:42:16		file saved
+2022-08-08/19:43:52		starting editor
+2022-08-08/19:43:52		returning editor new content
+2022-08-08/19:43:52		file saved
+2022-08-08/19:44:11		starting editor
+2022-08-08/19:44:11		returning editor new content
+2022-08-08/19:44:11		file saved
+2022-08-08/19:44:35		starting editor
+2022-08-08/19:44:35		returning editor new content
+2022-08-08/19:44:35		file saved
+2022-08-08/19:44:52		starting editor
+2022-08-08/19:44:52		returning editor new content
+2022-08-08/19:44:52		file saved
+2022-08-08/19:45:38		starting editor
+2022-08-08/19:45:38		returning editor new content
+2022-08-08/19:45:38		file saved
+2022-08-08/19:46:06		starting editor
+2022-08-08/19:46:06		returning editor new content
+2022-08-08/19:46:06		file saved
+2022-08-08/19:46:40		starting editor
+2022-08-08/19:46:40		returning editor new content
+2022-08-08/19:46:40		file saved
+2022-08-08/19:48:02		starting editor
+2022-08-08/19:48:02		returning editor new content
+2022-08-08/19:48:02		file saved
+2022-08-08/19:48:02		file saved
