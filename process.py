@@ -10,19 +10,11 @@ import base64
 import streamlit as st
 from docx import Document
 
-
-
-SPACY_MODEL_NAMES = ["en_core_web_sm"]
+import en_core_web_sm
+nlp = en_core_web_sm.load()
 
 file = open("log.txt", "a+")
 logger = Logger()
-
-
-def load_model(name):
-    return spacy.load(name)
-
-# python -m spacy download en_core_web_sm
-nlp = load_model(SPACY_MODEL_NAMES[0])
 
 def preprocessing(text):
     logger.log(file, "started cleaning data")
