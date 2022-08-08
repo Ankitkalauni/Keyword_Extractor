@@ -1,0 +1,5 @@
+upload any word document
+edit the same document through an online form to add new paragraphs or edit paragraphs
+integrate a keyword extractor (Basic) that run on the content of the same document and displays the results by appending them to the document file
+download the updated document as a PDF/DOCX to a local machine
+host this application on either streamlit cloud or heroku or any similar alternatives

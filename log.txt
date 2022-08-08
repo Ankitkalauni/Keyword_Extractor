@@ -1,0 +1,9 @@
+2022-08-08/18:19:52		starting editor
+2022-08-08/18:19:52		returning editor new content
+2022-08-08/18:19:52		file saved
+2022-08-08/18:20:31		data processed to str
+2022-08-08/18:20:31		updated data to session from doc string
+2022-08-08/18:20:31		starting editor
+2022-08-08/18:20:31		returning editor new content
+2022-08-08/18:20:32		starting editor
+2022-08-08/18:20:32		returning editor new content

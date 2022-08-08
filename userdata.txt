@@ -1,0 +1,73 @@
+Ankit Kalauni 
+
+Mumbai | 401208 
+
++91 9325106150 | ankitkalauni86@gmail.com 
+
+
+
+      
+
+
+
+Data Science Enthusiast						       My Courses & Certification
+
+
+
+
+
+Highly creative and versatile student learning every day from the experience gained from the past works. Currently pursuing BSc-IT along with machine learning & Deep Learning where I do data analysis by visualization and build the models to predict outcomes of the future. Highly active learner and practice skills on Kaggle websites by participating in competitions.
+
+Education										          
+
+2022 	Kishinchand Chellaram, Mumbai 	Bachelor of Science in Information Technology                          CGPA: 9.14
+
+	Self-study: 				• Python, C, CPP and SQL 	                 • Networking and Security
+
+	• Intro AL & ML				• Presentation & Communication     • Data Structures & Algorithms
+
+	• ML & DL Hackathons			• Business Intelligence                        • Project Development & Lifecycle
+
+	• Deep Learning Specialization		• Mathematical & Stats Foundation • Computer Fundamentals
+
+2019     KPB Hinduja, Mumbai 			Higher Secondary Education (Commerce Stream) 	    Score: 78.00
+
+2017     Sheth Vidya Mandir, Mumbai 		Secondary School Education				    Score: 86.80
+
+Skills
+
+ 		  Programming / SW 		  Packages 		   Visualization 		            Others
+
+Proficient: 	    Python, SQL, Excel        Sklearn, Pandas, Numpy           PowerBI, Matplotlib 	          Git, OOPS
+
+Intermediate:        CPP, HTML, NOSQL                   Tensorflow                              D3, Plotly		          Bash, AWS
+
+Project										          My Courses & Certification
+
+2021 	6th Place - Tabular Playground Series - Sep 2021 (Hackathon)
+
+	Kaggle Competition: Tabular data, Binary Classification, AUC	      Python, XGBOOST, LGBM, CATBOOST, Blending
+
+	My First Kaggle Competition. Learned about Cross-Validation Techniques, Pipeline, Data Transformation, Blending
+
+	& Stacking and Secret Recipe for AUC Eval-Metric.
+
+
+
+2021 	Forest cover type prediction
+
+	Machine Learning	      							 Python, Scikit-Learn, Tensorflow
+
+	A Kaggle competition: predictions of the predominant kind of tree cover, from strictly cartographic variables such
+
+	as elevation and soil type, using random forests, SVMs, kNNs, Naive Bayes, Gradient Descent, GMMs, …
+
+
+
+2021 	Neural Nets With Keras
+
+	Hands-on Machine Learning Capstone					     Keras, Tensorflow, Python, Matplotlib
+
+	Vanishing/Exploding Gradients Problem, Xavier and He Initialization Reusing Pretrained Layers, Nonsaturating
+
+	Activation Functions, Sequential, Functional and Subclass Keras models
