@@ -2205,3 +2205,514 @@
 2022-08-09/00:41:08		user edited data saved. no extracting data
 2022-08-09/00:41:08		file saved
 2022-08-09/00:41:08		data extracted and appended to the original userdata
+2022-08-09/00:41:01		started cleaning data
+2022-08-09/00:41:01		data cleaned and returned
+2022-08-09/00:41:01		PDF File saved
+2022-08-09/00:41:02		started cleaning data
+2022-08-09/00:41:02		data cleaned and returned
+2022-08-09/00:41:02		PDF File saved
+2022-08-09/00:41:05		started cleaning data
+2022-08-09/00:41:05		data cleaned and returned
+2022-08-09/00:41:05		PDF File saved
+2022-08-09/00:41:07		started cleaning data
+2022-08-09/00:41:07		data cleaned and returned
+2022-08-09/00:41:08		started cleaning data
+2022-08-09/00:41:08		data cleaned and returned
+2022-08-09/00:41:08		PDF File saved
+2022-08-09/00:41:10		started cleaning data
+2022-08-09/00:41:10		data cleaned and returned
+2022-08-09/00:41:10		init done
+2022-08-09/00:41:10		starting editor
+2022-08-09/00:41:10		returning editor new content
+2022-08-09/00:41:10		Saving userdata
+2022-08-09/00:41:10		file saved
+2022-08-09/00:41:10		user edited data saved. no extracting data
+2022-08-09/00:41:10		file saved
+2022-08-09/00:41:10		data extracted and appended to the original userdata
+2022-08-09/00:42:31		init done
+2022-08-09/00:42:32		init done
+2022-08-09/00:42:32		starting editor
+2022-08-09/00:42:32		returning editor new content
+2022-08-09/00:42:32		Saving userdata
+2022-08-09/00:42:32		file saved
+2022-08-09/00:42:32		user edited data saved. no extracting data
+2022-08-09/00:42:32		file saved
+2022-08-09/00:42:32		data extracted and appended to the original userdata
+2022-08-09/00:42:32		init done
+2022-08-09/00:42:32		data processed to str
+2022-08-09/00:42:32		updated data to session from doc string
+2022-08-09/00:42:32		starting editor
+2022-08-09/00:42:32		returning editor new content
+2022-08-09/00:42:32		Saving userdata
+2022-08-09/00:42:32		file saved
+2022-08-09/00:42:32		user edited data saved. no extracting data
+2022-08-09/00:42:32		file saved
+2022-08-09/00:42:32		data extracted and appended to the original userdata
+2022-08-09/00:42:33		init done
+2022-08-09/00:42:33		starting editor
+2022-08-09/00:42:33		returning editor new content
+2022-08-09/00:42:33		Saving userdata
+2022-08-09/00:42:33		file saved
+2022-08-09/00:42:33		user edited data saved. no extracting data
+2022-08-09/00:42:33		file saved
+2022-08-09/00:42:33		data extracted and appended to the original userdata
+2022-08-09/00:42:38		init done
+2022-08-09/00:42:38		starting editor
+2022-08-09/00:42:38		returning editor new content
+2022-08-09/00:42:38		Saving userdata
+2022-08-09/00:42:38		file saved
+2022-08-09/00:42:38		user edited data saved. no extracting data
+2022-08-09/00:42:38		file saved
+2022-08-09/00:42:38		data extracted and appended to the original userdata
+2022-08-09/00:42:39		init done
+2022-08-09/00:42:39		starting editor
+2022-08-09/00:42:39		returning editor new content
+2022-08-09/00:42:39		Saving userdata
+2022-08-09/00:42:39		file saved
+2022-08-09/00:42:39		user edited data saved. no extracting data
+2022-08-09/00:42:39		file saved
+2022-08-09/00:42:39		data extracted and appended to the original userdata
+2022-08-09/00:42:40		init done
+2022-08-09/00:42:40		starting editor
+2022-08-09/00:42:40		returning editor new content
+2022-08-09/00:42:40		Saving userdata
+2022-08-09/00:42:40		file saved
+2022-08-09/00:42:40		user edited data saved. no extracting data
+2022-08-09/00:42:40		file saved
+2022-08-09/00:42:40		data extracted and appended to the original userdata
+2022-08-09/00:42:47		init done
+2022-08-09/00:42:47		starting editor
+2022-08-09/00:42:47		returning editor new content
+2022-08-09/00:42:47		Saving userdata
+2022-08-09/00:42:47		file saved
+2022-08-09/00:42:47		user edited data saved. no extracting data
+2022-08-09/00:42:48		file saved
+2022-08-09/00:42:48		data extracted and appended to the original userdata
+2022-08-09/00:42:52		init done
+2022-08-09/00:42:52		starting editor
+2022-08-09/00:42:52		returning editor new content
+2022-08-09/00:42:52		Saving userdata
+2022-08-09/00:42:52		file saved
+2022-08-09/00:42:52		user edited data saved. no extracting data
+2022-08-09/00:42:52		file saved
+2022-08-09/00:42:52		data extracted and appended to the original userdata
+2022-08-09/00:43:00		init done
+2022-08-09/00:43:00		starting editor
+2022-08-09/00:43:00		returning editor new content
+2022-08-09/00:43:00		Saving userdata
+2022-08-09/00:43:00		file saved
+2022-08-09/00:43:00		user edited data saved. no extracting data
+2022-08-09/00:43:00		file saved
+2022-08-09/00:43:00		data extracted and appended to the original userdata
+2022-08-09/00:42:32		started cleaning data
+2022-08-09/00:42:32		data cleaned and returned
+2022-08-09/00:42:32		started cleaning data
+2022-08-09/00:42:32		data cleaned and returned
+2022-08-09/00:42:33		started cleaning data
+2022-08-09/00:42:33		data cleaned and returned
+2022-08-09/00:42:38		started cleaning data
+2022-08-09/00:42:38		data cleaned and returned
+2022-08-09/00:42:39		started cleaning data
+2022-08-09/00:42:39		data cleaned and returned
+2022-08-09/00:42:39		PDF File saved
+2022-08-09/00:42:40		started cleaning data
+2022-08-09/00:42:40		data cleaned and returned
+2022-08-09/00:42:40		PDF File saved
+2022-08-09/00:42:47		started cleaning data
+2022-08-09/00:42:47		data cleaned and returned
+2022-08-09/00:42:48		PDF File saved
+2022-08-09/00:42:52		started cleaning data
+2022-08-09/00:42:52		data cleaned and returned
+2022-08-09/00:42:52		PDF File saved
+2022-08-09/00:43:00		started cleaning data
+2022-08-09/00:43:00		data cleaned and returned
+2022-08-09/00:43:00		PDF File saved
+2022-08-09/00:43:01		started cleaning data
+2022-08-09/00:43:01		data cleaned and returned
+2022-08-09/00:43:01		PDF File saved
+2022-08-09/00:43:01		init done
+2022-08-09/00:43:01		starting editor
+2022-08-09/00:43:01		returning editor new content
+2022-08-09/00:43:01		Saving userdata
+2022-08-09/00:43:01		file saved
+2022-08-09/00:43:01		user edited data saved. no extracting data
+2022-08-09/00:43:01		file saved
+2022-08-09/00:43:01		data extracted and appended to the original userdata
+2022-08-09/00:48:03		init done
+2022-08-09/00:48:03		starting editor
+2022-08-09/00:48:03		returning editor new content
+2022-08-09/00:48:03		Saving userdata
+2022-08-09/00:48:03		file saved
+2022-08-09/00:48:03		user edited data saved. no extracting data
+2022-08-09/00:48:03		file saved
+2022-08-09/00:48:03		data extracted and appended to the original userdata
+2022-08-09/00:48:04		init done
+2022-08-09/00:48:04		starting editor
+2022-08-09/00:48:04		returning editor new content
+2022-08-09/00:48:04		Saving userdata
+2022-08-09/00:48:04		file saved
+2022-08-09/00:48:04		user edited data saved. no extracting data
+2022-08-09/00:48:04		file saved
+2022-08-09/00:48:04		data extracted and appended to the original userdata
+2022-08-09/00:48:06		init done
+2022-08-09/00:48:06		starting editor
+2022-08-09/00:48:06		returning editor new content
+2022-08-09/00:48:06		Saving userdata
+2022-08-09/00:48:06		file saved
+2022-08-09/00:48:06		user edited data saved. no extracting data
+2022-08-09/00:48:06		file saved
+2022-08-09/00:48:06		data extracted and appended to the original userdata
+2022-08-09/00:48:11		init done
+2022-08-09/00:48:11		starting editor
+2022-08-09/00:48:11		returning editor new content
+2022-08-09/00:48:11		Saving userdata
+2022-08-09/00:48:11		file saved
+2022-08-09/00:48:11		user edited data saved. no extracting data
+2022-08-09/00:48:11		file saved
+2022-08-09/00:48:11		data extracted and appended to the original userdata
+2022-08-09/00:48:20		init done
+2022-08-09/00:48:20		starting editor
+2022-08-09/00:48:20		returning editor new content
+2022-08-09/00:48:20		Saving userdata
+2022-08-09/00:48:20		file saved
+2022-08-09/00:48:20		user edited data saved. no extracting data
+2022-08-09/00:48:20		file saved
+2022-08-09/00:48:20		data extracted and appended to the original userdata
+2022-08-09/00:48:03		started cleaning data
+2022-08-09/00:48:03		data cleaned and returned
+2022-08-09/00:48:03		PDF File saved
+2022-08-09/00:48:04		started cleaning data
+2022-08-09/00:48:04		data cleaned and returned
+2022-08-09/00:48:04		PDF File saved
+2022-08-09/00:48:06		started cleaning data
+2022-08-09/00:48:06		data cleaned and returned
+2022-08-09/00:48:06		PDF File saved
+2022-08-09/00:48:11		started cleaning data
+2022-08-09/00:48:11		data cleaned and returned
+2022-08-09/00:48:11		PDF File saved
+2022-08-09/00:48:20		started cleaning data
+2022-08-09/00:48:20		data cleaned and returned
+2022-08-09/00:48:20		PDF File saved
+2022-08-09/00:50:24		started cleaning data
+2022-08-09/00:50:24		data cleaned and returned
+2022-08-09/00:50:24		PDF File saved
+2022-08-09/00:50:24		init done
+2022-08-09/00:50:24		starting editor
+2022-08-09/00:50:24		returning editor new content
+2022-08-09/00:50:24		Saving userdata
+2022-08-09/00:50:24		file saved
+2022-08-09/00:50:24		user edited data saved. no extracting data
+2022-08-09/00:50:24		file saved
+2022-08-09/00:50:24		data extracted and appended to the original userdata
+2022-08-09/00:54:36		started cleaning data
+2022-08-09/00:54:36		data cleaned and returned
+2022-08-09/00:54:36		PDF File saved
+2022-08-09/00:54:36		init done
+2022-08-09/00:54:36		starting editor
+2022-08-09/00:54:36		returning editor new content
+2022-08-09/00:54:36		Saving userdata
+2022-08-09/00:54:36		file saved
+2022-08-09/00:54:36		user edited data saved. no extracting data
+2022-08-09/00:54:36		file saved
+2022-08-09/00:54:36		data extracted and appended to the original userdata
+2022-08-09/00:55:33		started cleaning data
+2022-08-09/00:55:33		data cleaned and returned
+2022-08-09/00:55:33		PDF File saved
+2022-08-09/00:55:33		init done
+2022-08-09/00:55:33		starting editor
+2022-08-09/00:55:33		returning editor new content
+2022-08-09/00:55:33		Saving userdata
+2022-08-09/00:55:33		file saved
+2022-08-09/00:55:33		user edited data saved. no extracting data
+2022-08-09/00:55:33		file saved
+2022-08-09/00:55:33		data extracted and appended to the original userdata
+2022-08-09/00:55:43		init done
+2022-08-09/00:55:43		starting editor
+2022-08-09/00:55:43		returning editor new content
+2022-08-09/00:55:43		Saving userdata
+2022-08-09/00:55:43		file saved
+2022-08-09/00:55:43		user edited data saved. no extracting data
+2022-08-09/00:55:43		file saved
+2022-08-09/00:55:43		data extracted and appended to the original userdata
+2022-08-09/00:55:43		started cleaning data
+2022-08-09/00:55:43		data cleaned and returned
+2022-08-09/00:55:43		PDF File saved
+2022-08-09/00:57:10		init done
+2022-08-09/00:57:50		init done
+2022-08-09/00:57:58		init done
+2022-08-09/00:58:05		init done
+2022-08-09/00:58:24		init done
+2022-08-09/00:58:32		init done
+2022-08-09/00:59:51		init done
+2022-08-09/00:59:51		data processed to str
+2022-08-09/00:59:51		updated data to session from doc string
+2022-08-09/00:59:51		starting editor
+2022-08-09/00:59:51		returning editor new content
+2022-08-09/00:59:51		Saving userdata
+2022-08-09/00:59:51		file saved
+2022-08-09/00:59:51		user edited data saved. no extracting data
+2022-08-09/00:59:51		file saved
+2022-08-09/00:59:51		data extracted and appended to the original userdata
+2022-08-09/00:59:51		started cleaning data
+2022-08-09/00:59:51		data cleaned and returned
+2022-08-09/00:59:51		PDF File saved
+2022-08-09/00:59:51		started cleaning data
+2022-08-09/00:59:51		data cleaned and returned
+2022-08-09/00:59:51		PDF File saved
+2022-08-09/00:59:51		init done
+2022-08-09/00:59:51		starting editor
+2022-08-09/00:59:51		returning editor new content
+2022-08-09/00:59:51		Saving userdata
+2022-08-09/00:59:51		file saved
+2022-08-09/00:59:51		user edited data saved. no extracting data
+2022-08-09/00:59:51		file saved
+2022-08-09/00:59:51		data extracted and appended to the original userdata
+2022-08-09/01:01:30		started cleaning data
+2022-08-09/01:01:30		data cleaned and returned
+2022-08-09/01:01:30		PDF File saved
+2022-08-09/01:01:30		init done
+2022-08-09/01:01:30		starting editor
+2022-08-09/01:01:30		returning editor new content
+2022-08-09/01:01:30		Saving userdata
+2022-08-09/01:01:30		file saved
+2022-08-09/01:01:30		user edited data saved. no extracting data
+2022-08-09/01:01:30		file saved
+2022-08-09/01:01:30		data extracted and appended to the original userdata
+2022-08-09/01:02:18		init done
+2022-08-09/01:02:18		starting editor
+2022-08-09/01:02:18		returning editor new content
+2022-08-09/01:02:18		Saving userdata
+2022-08-09/01:02:18		file saved
+2022-08-09/01:02:18		user edited data saved. no extracting data
+2022-08-09/01:02:18		file saved
+2022-08-09/01:02:18		data extracted and appended to the original userdata
+2022-08-09/01:02:21		init done
+2022-08-09/01:02:25		init done
+2022-08-09/01:02:26		init done
+2022-08-09/01:02:26		data processed to str
+2022-08-09/01:02:26		updated data to session from doc string
+2022-08-09/01:02:26		starting editor
+2022-08-09/01:02:26		returning editor new content
+2022-08-09/01:02:26		Saving userdata
+2022-08-09/01:02:26		file saved
+2022-08-09/01:02:26		user edited data saved. no extracting data
+2022-08-09/01:02:26		file saved
+2022-08-09/01:02:26		data extracted and appended to the original userdata
+2022-08-09/01:02:27		init done
+2022-08-09/01:02:27		starting editor
+2022-08-09/01:02:27		returning editor new content
+2022-08-09/01:02:27		Saving userdata
+2022-08-09/01:02:27		file saved
+2022-08-09/01:02:27		user edited data saved. no extracting data
+2022-08-09/01:02:27		file saved
+2022-08-09/01:02:27		data extracted and appended to the original userdata
+2022-08-09/01:02:18		started cleaning data
+2022-08-09/01:02:18		data cleaned and returned
+2022-08-09/01:02:18		PDF File saved
+2022-08-09/01:02:26		started cleaning data
+2022-08-09/01:02:26		data cleaned and returned
+2022-08-09/01:02:26		PDF File saved
+2022-08-09/01:02:27		started cleaning data
+2022-08-09/01:02:27		data cleaned and returned
+2022-08-09/01:02:27		PDF File saved
+2022-08-09/01:02:29		started cleaning data
+2022-08-09/01:02:29		data cleaned and returned
+2022-08-09/01:02:29		PDF File saved
+2022-08-09/01:02:29		init done
+2022-08-09/01:02:29		starting editor
+2022-08-09/01:02:29		returning editor new content
+2022-08-09/01:02:29		Saving userdata
+2022-08-09/01:02:29		file saved
+2022-08-09/01:02:29		user edited data saved. no extracting data
+2022-08-09/01:02:29		file saved
+2022-08-09/01:02:29		data extracted and appended to the original userdata
+2022-08-09/01:02:37		init done
+2022-08-09/01:02:37		starting editor
+2022-08-09/01:02:37		returning editor new content
+2022-08-09/01:02:37		Saving userdata
+2022-08-09/01:02:37		file saved
+2022-08-09/01:02:37		user edited data saved. no extracting data
+2022-08-09/01:02:37		file saved
+2022-08-09/01:02:37		data extracted and appended to the original userdata
+2022-08-09/01:02:39		init done
+2022-08-09/01:02:42		init done
+2022-08-09/01:02:43		init done
+2022-08-09/01:02:43		data processed to str
+2022-08-09/01:02:43		updated data to session from doc string
+2022-08-09/01:02:43		starting editor
+2022-08-09/01:02:43		returning editor new content
+2022-08-09/01:02:43		Saving userdata
+2022-08-09/01:02:43		file saved
+2022-08-09/01:02:43		user edited data saved. no extracting data
+2022-08-09/01:02:44		file saved
+2022-08-09/01:02:44		data extracted and appended to the original userdata
+2022-08-09/01:02:37		started cleaning data
+2022-08-09/01:02:37		data cleaned and returned
+2022-08-09/01:02:37		PDF File saved
+2022-08-09/01:02:43		started cleaning data
+2022-08-09/01:02:44		data cleaned and returned
+2022-08-09/01:02:44		PDF File saved
+2022-08-09/01:02:44		started cleaning data
+2022-08-09/01:02:44		data cleaned and returned
+2022-08-09/01:02:44		PDF File saved
+2022-08-09/01:02:44		init done
+2022-08-09/01:02:44		starting editor
+2022-08-09/01:02:44		returning editor new content
+2022-08-09/01:02:44		Saving userdata
+2022-08-09/01:02:44		file saved
+2022-08-09/01:02:44		user edited data saved. no extracting data
+2022-08-09/01:02:44		file saved
+2022-08-09/01:02:44		data extracted and appended to the original userdata
+2022-08-09/01:04:09		init done
+2022-08-09/01:04:12		init done
+2022-08-09/01:04:13		init done
+2022-08-09/01:04:13		data processed to str
+2022-08-09/01:04:13		updated data to session from doc string
+2022-08-09/01:04:13		starting editor
+2022-08-09/01:04:13		returning editor new content
+2022-08-09/01:04:13		Saving userdata
+2022-08-09/01:04:13		file saved
+2022-08-09/01:04:13		user edited data saved. no extracting data
+2022-08-09/01:04:14		file saved
+2022-08-09/01:04:14		data extracted and appended to the original userdata
+2022-08-09/01:04:13		started cleaning data
+2022-08-09/01:04:14		data cleaned and returned
+2022-08-09/01:04:14		started cleaning data
+2022-08-09/01:04:14		data cleaned and returned
+2022-08-09/01:04:14		init done
+2022-08-09/01:04:14		starting editor
+2022-08-09/01:04:14		returning editor new content
+2022-08-09/01:04:14		Saving userdata
+2022-08-09/01:04:14		file saved
+2022-08-09/01:04:14		user edited data saved. no extracting data
+2022-08-09/01:04:14		file saved
+2022-08-09/01:04:14		data extracted and appended to the original userdata
+2022-08-09/01:04:37		init done
+2022-08-09/01:04:41		init done
+2022-08-09/01:04:42		init done
+2022-08-09/01:04:42		data processed to str
+2022-08-09/01:04:42		updated data to session from doc string
+2022-08-09/01:04:42		starting editor
+2022-08-09/01:04:42		returning editor new content
+2022-08-09/01:04:42		Saving userdata
+2022-08-09/01:04:42		file saved
+2022-08-09/01:04:42		user edited data saved. no extracting data
+2022-08-09/01:04:42		file saved
+2022-08-09/01:04:42		data extracted and appended to the original userdata
+2022-08-09/01:04:42		init done
+2022-08-09/01:04:42		starting editor
+2022-08-09/01:04:42		returning editor new content
+2022-08-09/01:04:42		Saving userdata
+2022-08-09/01:04:42		file saved
+2022-08-09/01:04:42		user edited data saved. no extracting data
+2022-08-09/01:04:43		file saved
+2022-08-09/01:04:43		data extracted and appended to the original userdata
+2022-08-09/01:05:19		init done
+2022-08-09/01:05:22		init done
+2022-08-09/01:05:23		init done
+2022-08-09/01:05:23		data processed to str
+2022-08-09/01:05:23		updated data to session from doc string
+2022-08-09/01:05:23		starting editor
+2022-08-09/01:05:23		returning editor new content
+2022-08-09/01:05:23		Saving userdata
+2022-08-09/01:05:23		file saved
+2022-08-09/01:05:23		user edited data saved. no extracting data
+2022-08-09/01:05:23		file saved
+2022-08-09/01:05:23		data extracted and appended to the original userdata
+2022-08-09/01:04:42		started cleaning data
+2022-08-09/01:04:42		data cleaned and returned
+2022-08-09/01:04:42		started cleaning data
+2022-08-09/01:04:43		data cleaned and returned
+2022-08-09/01:04:43		PDF File saved
+2022-08-09/01:05:23		started cleaning data
+2022-08-09/01:05:23		data cleaned and returned
+2022-08-09/01:05:24		started cleaning data
+2022-08-09/01:05:24		data cleaned and returned
+2022-08-09/01:05:24		PDF File saved
+2022-08-09/01:05:24		init done
+2022-08-09/01:05:24		starting editor
+2022-08-09/01:05:24		returning editor new content
+2022-08-09/01:05:24		Saving userdata
+2022-08-09/01:05:24		file saved
+2022-08-09/01:05:24		user edited data saved. no extracting data
+2022-08-09/01:05:24		file saved
+2022-08-09/01:05:24		data extracted and appended to the original userdata
+2022-08-09/01:07:03		init done
+2022-08-09/01:07:06		init done
+2022-08-09/01:07:07		init done
+2022-08-09/01:07:07		data processed to str
+2022-08-09/01:07:07		updated data to session from doc string
+2022-08-09/01:07:07		starting editor
+2022-08-09/01:07:07		returning editor new content
+2022-08-09/01:07:07		Saving userdata
+2022-08-09/01:07:07		file saved
+2022-08-09/01:07:07		user edited data saved. no extracting data
+2022-08-09/01:07:07		file saved
+2022-08-09/01:07:07		data extracted and appended to the original userdata
+2022-08-09/01:07:07		started cleaning data
+2022-08-09/01:07:07		data cleaned and returned
+2022-08-09/01:07:07		PDF File saved
+2022-08-09/01:07:07		started cleaning data
+2022-08-09/01:07:07		data cleaned and returned
+2022-08-09/01:07:07		PDF File saved
+2022-08-09/01:07:07		init done
+2022-08-09/01:07:07		starting editor
+2022-08-09/01:07:07		returning editor new content
+2022-08-09/01:07:07		Saving userdata
+2022-08-09/01:07:07		file saved
+2022-08-09/01:07:07		user edited data saved. no extracting data
+2022-08-09/01:07:07		file saved
+2022-08-09/01:07:07		data extracted and appended to the original userdata
+2022-08-09/01:08:54		init done
+2022-08-09/01:08:57		init done
+2022-08-09/01:08:58		init done
+2022-08-09/01:08:58		data processed to str
+2022-08-09/01:08:58		updated data to session from doc string
+2022-08-09/01:08:58		starting editor
+2022-08-09/01:08:58		returning editor new content
+2022-08-09/01:08:58		Saving userdata
+2022-08-09/01:08:58		file saved
+2022-08-09/01:08:58		user edited data saved. no extracting data
+2022-08-09/01:08:58		file saved
+2022-08-09/01:08:58		data extracted and appended to the original userdata
+2022-08-09/01:08:59		init done
+2022-08-09/01:08:59		starting editor
+2022-08-09/01:08:59		returning editor new content
+2022-08-09/01:08:59		Saving userdata
+2022-08-09/01:08:59		file saved
+2022-08-09/01:08:59		user edited data saved. no extracting data
+2022-08-09/01:08:59		file saved
+2022-08-09/01:08:59		data extracted and appended to the original userdata
+2022-08-09/01:09:02		init done
+2022-08-09/01:09:02		starting editor
+2022-08-09/01:09:02		returning editor new content
+2022-08-09/01:09:02		Saving userdata
+2022-08-09/01:09:02		file saved
+2022-08-09/01:09:02		user edited data saved. no extracting data
+2022-08-09/01:09:02		file saved
+2022-08-09/01:09:02		data extracted and appended to the original userdata
+2022-08-09/01:08:58		started cleaning data
+2022-08-09/01:08:58		data cleaned and returned
+2022-08-09/01:08:59		started cleaning data
+2022-08-09/01:08:59		data cleaned and returned
+2022-08-09/01:09:02		started cleaning data
+2022-08-09/01:09:02		data cleaned and returned
+2022-08-09/01:09:04		started cleaning data
+2022-08-09/01:09:04		data cleaned and returned
+2022-08-09/01:09:04		PDF File saved
+2022-08-09/01:09:04		init done
+2022-08-09/01:09:04		starting editor
+2022-08-09/01:09:04		returning editor new content
+2022-08-09/01:09:04		Saving userdata
+2022-08-09/01:09:04		file saved
+2022-08-09/01:09:04		user edited data saved. no extracting data
+2022-08-09/01:09:04		file saved
+2022-08-09/01:09:04		data extracted and appended to the original userdata
+2022-08-09/01:10:57		init done
+2022-08-09/01:10:57		starting editor
+2022-08-09/01:10:57		returning editor new content
+2022-08-09/01:10:57		Saving userdata
+2022-08-09/01:10:57		file saved
+2022-08-09/01:10:57		user edited data saved. no extracting data
+2022-08-09/01:10:57		file saved
+2022-08-09/01:10:57		data extracted and appended to the original userdata

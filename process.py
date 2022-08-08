@@ -65,7 +65,7 @@ def text_to_pdf(text, filename):
     
     # insert the texts in pdf
     for x in text:
-        pdf.cell(0, 4, txt = x, ln = 1, align = 'C')
+        pdf.cell(0,5, txt = x, ln = 1, align = 'C')
     
     # save the pdf with name .pdf
     pdf.output(filename) 
@@ -77,8 +77,6 @@ def text_doc(file, filename):
     line = file.read()
     doc.add_paragraph(line)
     doc.save(filename + ".doc")
-
-
 
 
 def show_pdf(file_path):
