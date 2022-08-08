@@ -2,7 +2,6 @@ from cmath import log
 import spacy
 import re
 import string
-import nltk
 import textwrap
 from fpdf import FPDF
 from logger import Logger
