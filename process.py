@@ -12,14 +12,18 @@ from docx import Document
 
 
 
+SPACY_MODEL_NAMES = ["en_core_web_sm"]
 
 file = open("log.txt", "a+")
 logger = Logger()
 
 
-# python -m spacy download en_core_web_sm
-nlp = spacy.load("en_core_web_sm")
+@st.cache(ignore_hash=True)
+def load_model(name):
+    return spacy.load(name)
 
+# python -m spacy download en_core_web_sm
+nlp = load_model(SPACY_MODEL_NAMES[0])
 
 def preprocessing(text):
     logger.log(file, "started cleaning data")
