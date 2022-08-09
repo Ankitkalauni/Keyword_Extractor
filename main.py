@@ -7,19 +7,27 @@ from PyPDF2 import PdfFileReader
 import os
 import time
 from streamlit_quill import st_quill
-from process import text_process, text_to_pdf, show_pdf, create_download_link, text_doc
+from process import text_process, text_to_pdf, text_doc
 from docx import Document
-
- 
 
 
 file = open("log.txt", "a+")
 logger = Logger()
 
 def save_to_file(str_data, readmode = "w"):
-    with open(os.path.join("userdata.txt"), readmode) as file_obj:
-        file_obj.write(str_data)
+    if readmode == "w":
+        with open(os.path.join("userdata.txt"), readmode) as file_obj:
+            file_obj.write(str_data)
+    else:
+        st.session_state['user_data'] = 1
+        with open(os.path.join("userdata.txt"), readmode) as file_obj:
+            file_obj.write(str_data)
+
+    
     logger.log(file, "file saved")
+
+
+
 
 def process_data(uploaded_file):
         data = docx2txt.process(uploaded_file)
@@ -79,12 +87,8 @@ if __name__ == '__main__':
         data = run_editor(str_data)
 
     if st.session_state['str_value'] is not None:
-        st.session_state['user_data'] = 1
-
-    if st.session_state['user_data']:
+        
         if st.button("save & Extract") or st.session_state['load_state']:
-
-            
 
             logger.log(file, "Saving userdata")
             data = data + boundary
@@ -93,32 +97,32 @@ if __name__ == '__main__':
             save_to_file(text_process(data), readmode="a+")
 
             logger.log(file, "data extracted and appended to the original userdata")
-            
-            if st.checkbox("Accept Terms & Condition"):
-                genre = st.radio(
-                "Download as",
-                ('PDF', 'DOC'))
+            if st.session_state['user_data']:    
+                if st.checkbox("Accept Terms & Condition"):
+                    genre = st.radio(
+                    "Download as",
+                    ('PDF', 'DOC'))
 
-                with open(os.path.join("userdata.txt"), 'r', encoding="latin-1") as df:
-                    if genre == 'PDF':
-                        text_to_pdf(df, 'keywords.pdf')
-                        with open(os.path.join("keywords.pdf"), "rb") as pdf_file:
-                            PDFbyte = pdf_file.read()
+                    with open(os.path.join("userdata.txt"), 'r', encoding="latin-1") as df:
+                        if genre == 'PDF':
+                            text_to_pdf(df, 'keywords.pdf')
+                            with open(os.path.join("keywords.pdf"), "rb") as pdf_file:
+                                PDFbyte = pdf_file.read()
 
-                            st.download_button(label="Export as PDF",
-                            data=PDFbyte,
-                            file_name="keywords.pdf",
-                            mime='application/octet-stream')
+                                st.download_button(label="Export as PDF",
+                                data=PDFbyte,
+                                file_name="keywords.pdf",
+                                mime='application/octet-stream')
 
-                    else:
-                        text_doc(df, 'keywords')
-                        with open(os.path.join("keywords.doc"), "rb") as doc_file:
-                            docbyte = doc_file.read()
+                        else:
+                            text_doc(df, 'keywords')
+                            with open(os.path.join("keywords.doc"), "rb") as doc_file:
+                                docbyte = doc_file.read()
 
-                            st.download_button(label="Export as DOC",
-                            data=docbyte,
-                            file_name="keywords.doc",
-                            mime='application/octet-stream')
+                                st.download_button(label="Export as DOC",
+                                data=docbyte,
+                                file_name="keywords.doc",
+                                mime='application/octet-stream')
 
 
 
