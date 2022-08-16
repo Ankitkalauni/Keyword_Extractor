@@ -9,15 +9,22 @@ import os
 import base64
 import streamlit as st
 from docx import Document
-
+from sklearn.feature_extraction.text import TfidfVectorizer
+import nltk
+from nltk.corpus import stopwords # Import stopwords from nltk.corpus
+from nltk.stem import WordNetLemmatizer
 import en_core_web_sm
-nlp = en_core_web_sm.load()
+from nltk.corpus import wordnet as wn
+import pandas as pd
+from rake_nltk import Rake
+import pytextrank
+
+
 
 file = open("log.txt", "a+")
 logger = Logger()
 
 def preprocessing(text):
-    logger.log(file, "started cleaning data")
     # Make lower
     text = text.lower()
 
@@ -34,19 +41,32 @@ def preprocessing(text):
 
     with open(os.path.join("stopwords.txt"),'r') as useless_words:
         lis = useless_words.read().split("\n")
+        try:
+            stop_words = stopwords.words('english')
 
-        lis = lis + ['hi', 'im']    
+        except:
+            nltk.download('stopwords')
+            stop_words = stopwords.words('english')
+            lis = set(lis + stop_words)
+        finally:
+            lis = lis + ['hi', 'im']
 
-        text_filtered = [word for word in text if not word in lis]
-
-    
-    return " ".join(set(text_filtered))
+            try:
+                lem = WordNetLemmatizer()
+                lem.lemmatize("testing")
+            except:
+                #call the nltk downloader
+                nltk.download('wordnet')
+                nltk.download('omw-1.4')
+                lem = WordNetLemmatizer() #stemming
+            finally:
+                text_filtered = [lem.lemmatize(word) for word in text if not word in lis]
+                return " ".join(text_filtered)
 
 def text_process(text):
     text = preprocessing(text)
-    doc = nlp(text)
+    data = textrank(text)
 
-    data = doc.ents #Named Entity i will use more methods later like tf-idf..
     data = ", \n".join(str(d) for d in data)
 
     if data == "":
@@ -78,3 +98,44 @@ def text_doc(file, filename):
     doc.save(filename + ".doc")
 
 
+def tfidf(text: str) -> list:
+    vectorizer = TfidfVectorizer()
+    vectors = vectorizer.fit_transform([text])
+
+    feature_names = vectorizer.get_feature_names_out()
+    dense = vectors.todense()
+    denselist = dense.tolist()
+    df = pd.DataFrame(denselist, columns=feature_names)
+    
+    df = df.transpose().reset_index()
+    df.columns = ['words', 'value']
+    df = df.sort_values('value', ascending = False)
+
+
+    return df.loc[:50, 'words'].tolist()
+
+
+def rake(text: str) -> list:
+    r = Rake()
+
+    r.extract_keywords_from_text(text)
+
+    keywordList = []
+    rankedList = r.get_ranked_phrases_with_scores()
+    for keyword in rankedList:
+        keyword_updated = keyword[1].split()
+        keyword_updated_string    = " ".join(keyword_updated[:2])
+        keywordList.append(keyword_updated_string)
+        if(len(keywordList)>9):
+            break
+
+    return keywordList
+
+
+def textrank(text):
+    nlp = en_core_web_sm.load()
+    nlp.add_pipe("textrank")
+    doc = nlp(text)
+    # examine the top-ranked phrases in the document
+    return [text.text for text in doc._.phrases[:15]]
+        

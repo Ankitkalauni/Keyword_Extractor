@@ -4,4 +4,9 @@ streamlit-quill==0.0.3
 PyPDF2==2.9.0
 fpdf==1.7.2
 python-docx==0.8.11
+sklearn==1.1.2
+nltk==3.7
+rake-nltk==1.0.6
+pytextrank==3.2.4
+
 en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz

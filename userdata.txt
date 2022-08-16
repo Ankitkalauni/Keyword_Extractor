@@ -1,79 +1,76 @@
-How to Become a Data Scientist at Your Own
+Ankit Kalauni 
+
+Mumbai | 401208 
+
++91 9325106150 | ankitkalauni86@gmail.com 
 
 
 
-Big Data, Data Sciences, and Predictive Analytics are the talk of the town and it doesnï¿½t matter which town you are referring to, itï¿½s everywhere, from theï¿½United Nations using predictive analyticsï¿½to forecast bombings on schools to companies using Kaggle to launch their own
-competitions. There are dozens of Startups springing out every month stretching human imagination of how the underlying technologies can be used to improve our lives and everything we do. Data science is in demand and its growth is on steroids. According to Linkedin, ï¿½Statistical Analysisï¿½ and ï¿½Data Miningï¿½ are two top-most skills to get hired this year. Gartner says there are 4.4 million jobs for data scientists (and related titles) worldwide in 2017, 1.9 million in the US alone. One data science job creates another three non-IT jobs, so we are talking about some 13 million jobs altogether. The question is what YOU can do to secure a job and make your dreams come true, and how YOU can become someone that would qualify for these 4.4 million jobs worldwide.
+      
 
-There are at least 50 data science degree programs by universities worldwide offering diplomas in this discipline, it costs from 50,000 to 270,000 US$ and takes 1 to 4 years of your life. It might be a good option if you are looking to join college soon, and it has its own benefits over other programs in similar or not-to-so similar disciplines. I find these programs very expensive for the people from developing countries or working professionals to commit X years of their lives.
 
-Then there are few very good summer programs, fellowships and boot camps that promise you to make a data scientists in very short span of time, some of them are free but almost impossible to get in, while other requires a PhD or advanced degree, and some would cost between 15,000 to 25,000 US$ for 2 months or so. While these are very good options for recent Ph.D. graduates to gain some real industry experience, we have yet to see their quality and performance against a veteran industry analyst. Few of the ones that I really like areï¿½Data Incubator,ï¿½Insight Fellowship,ï¿½Metis Bootcamp,ï¿½Data Science for Social Goodsï¿½,ï¿½Intel AI Academy, and the famousï¿½Zipfian Academy programs.
 
-Let me also mention few paid resources that I am a fan of before I tell you how to do all that for free. First one is theï¿½Explore Data Scienceï¿½program by Booz Allen, it costs 1,250 $ but worth every single penny. Second one is recorded lectures by Tim Chartier on DVD, calledï¿½Big Data: How Data Analytics is transforming the world, it costs 80 bucks and worth your investment. The next in the list are two courses by MIT,ï¿½Tackling the Big Data Challenges, that costs 500$ and provides you a very solid theoretical foundation on big data, and Theï¿½Analytics Edge, that costs only 100 bucks and gives a superb introduction on how the analytics can be used to solve day-to-day business problems. If you can spare few hours a day then Udacity offers a perfectï¿½Nanodegree for Data Analystsï¿½that costs 200$/month can be completed in 6 months or so, they offer this in partnership with Facebook, Zipfian Academy, and MongoDB.ï¿½ThinkFulï¿½has a wonderful program for 500$/month to connect you live with a mentor to guide you to become a data scientist. You donï¿½t want to miss the DataCampï¿½sï¿½Data Science with Python Trackï¿½and theï¿½Deep Learning Specializationï¿½at Coursera too.
+Data Science Enthusiast						       My Courses & Certification
 
-Ok, so what one can do to become a data scientist if he/she cannot afford or get selected in the aforementioned competitive and expensive programs. What someone from a developing country can do to improve his/her chances of getting hired in this very important field or even try to use these advanced skills to improve their own surroundings, communities and countries.
-Here is my cheat sheet of becoming a Data Scientist for Free:
 
-Understand Data: Data is useless and can (and should) be misleading without the context. Data needs a story to tell a story. Data is like a color that needs a surface to even prove its existence, as color red for example, cannot prove its existence without a surface ï¿½ we see a red car, or red scarf, red tie, red shoes or red something ï¿½ similarly data needs to be associated with its surroundings, context, methods, ways and the whole life cycle where it is born, generated, used, modified, executed and terminated. I have yet to find a ï¿½data scientistï¿½ who can talk to me about the ï¿½dataï¿½ without mentioning technologies like Hadoop, NoSQL, Tableau or other sophisticated vendors and buzzwords. You need to have an intimate relationship with your data; you need to know it inside out. Asking someone else about anomalies in ï¿½yourï¿½ data clearly means you have no idea how your data in being generated, recorded or need to be analyzed in the first place.
 
-Understand Data Scientist: Unfortunately, one of the most confused and misused word in data sciences filed is the ï¿½data scientistï¿½ itself. Someone relate it to a mystic oracle who would know everything under the sun, while others would reduce it down to statistical expert, for few its someone familiar with Hadoop and NoSQL, and for others it is someone who can perform A/B testing and can use so much mathematics and statistical terms that would be hard to understand in executive meetings. For some, it is visualization dashboards and for others itï¿½s a never ending ETL processes. For me, a Data Scientist is someone who understands less about the science than the ones who creates it and little less about the data than the ones who generates it, but exactly knows how these two works together and this is what Kaggle offers to all of us. A good data scientist is the one who knows what is available ï¿½outside the boxï¿½ and who he needs to connect with, hire, or the technologies he needs to deploy to get the job done, one who can link business objectives with data marts, and who can simply connect the dots from business gains to human behaviors and from data generation to dollars spent.
 
-Watch theseï¿½13 Ted Videos
 
-Watch thisï¿½video of Hans Roslingï¿½to understand the power of Visualization
+Highly creative and versatile student learning every day from the experience gained from the past works. Currently pursuing BSc-IT along with machine learning & Deep Learning where I do data analysis by visualization and build the models to predict outcomes of the future. Highly active learner and practice skills on Kaggle websites by participating in competitions.
 
-Listen to weekly podcasts byï¿½Partially Derivativeï¿½on Data Sciences and explore theirï¿½Resourcesï¿½page
+Education										          
 
-University of Washingtonï¿½sï¿½Intro to Data Scienceï¿½andï¿½Computing for data analysisï¿½will be a good start
+2022 	Kishinchand Chellaram, Mumbai 	Bachelor of Science in Information Technology                          CGPA: 9.14
 
-Explore thisï¿½GitHub Linkï¿½and try to read as much as you can
+	Self-study: 				• Python, C, CPP and SQL 	                 • Networking and Security
 
-Check outï¿½Measure for Americaï¿½to gain an understanding of how data can make a difference
+	• Intro AL & ML				• Presentation & Communication     • Data Structures & Algorithms
 
-Read the free book -ï¿½Field Guide to Data Sciences
+	• ML & DL Hackathons			• Business Intelligence                        • Project Development & Lifecycle
 
-Religiously follow thisï¿½infographicï¿½on how to become a data scientist
+	• Deep Learning Specialization		• Mathematical & Stats Foundation • Computer Fundamentals
 
-Read thisï¿½blogï¿½to master your R skills
+2019     KPB Hinduja, Mumbai 			Higher Secondary Education (Commerce Stream) 	    Score: 78.00
 
-Read thisï¿½blogï¿½to master your statistics skills
+2017     Sheth Vidya Mandir, Mumbai 		Secondary School Education				    Score: 86.80
 
-Read this wonderful practicalï¿½intro to data sciencesï¿½by Zipfian Academy
+Skills
 
-Try to complete thisï¿½open source data science Masters program
+ 		  Programming / SW 		  Packages 		   Visualization 		            Others
 
-Do thisï¿½Machine Learning courseï¿½at Coursera by the co-founder Andrew Ng of Coursera himself
+Proficient: 	    Python, SQL, Excel        Sklearn, Pandas, Numpy           PowerBI, Matplotlib 	          Git, OOPS
 
-By all means, complete thisï¿½Data Science Specializationï¿½on Coursera, all nine courses, and the capstone
+Intermediate:        CPP, HTML, NOSQL                   Tensorflow                              D3, Plotly		          Bash, AWS
 
-If you lack computer science background or want to go towards programming side of the data sciences, try to complete thisï¿½Data Mining Specializationï¿½from the Coursera
+Project										          My Courses & Certification
 
-Optional: depends on the industry you like to work with, you may want to check out these industry specific courses/links on data sciences, healthcare analytics ï¿½ï¿½introï¿½andï¿½specialization,ï¿½education,ï¿½performance optimizationï¿½and generalï¿½academic research
+2021 	6th Place - Tabular Playground Series - Sep 2021 (Hackathon)
 
-To understand the deployment side of data science applications, thisï¿½cloud computingï¿½specialization from the Coursera andï¿½Youtube Amazon Web Servicesï¿½and freeï¿½trainingï¿½are a must to do
+	Kaggle Competition: Tabular data, Binary Classification, AUC	      Python, XGBOOST, LGBM, CATBOOST, Blending
 
-Do these second-to-none courses onï¿½Mining Massive Datasetsï¿½andï¿½Process Mining
+	My First Kaggle Competition. Learned about Cross-Validation Techniques, Pipeline, Data Transformation, Blending
 
-This link will lead you toï¿½27 best data mining booksï¿½for free
+	& Stacking and Secret Recipe for AUC Eval-Metric.
 
-Try to readï¿½Data Science Centralï¿½once a day, articles like this can save you a lot of time and discussion in interviews
 
-Try to compete in as manyï¿½Kaggleï¿½competitions as you can
 
-To put a cherry on the cake, these statistics driven courses will help you in differentiation from all other applicants ï¿½ï¿½Inferential Statistics,ï¿½Descriptive Statistics,ï¿½Data Analysis and Statistics,ï¿½Passion drive stats, andï¿½Making Sense of Data
+2021 	Forest cover type prediction
 
-Follow the following on Twitter for Predictive Analytics:ï¿½@mgualtieri,ï¿½@analyticbridge,ï¿½@doug_laney,ï¿½@Hypatia_LeslieA,ï¿½@hyounpark,ï¿½@KDnuggets, andï¿½@anilbatra
+	Machine Learning	      							 Python, Scikit-Learn, Tensorflow
 
-Follow the following on Twitter for Big Data and Data Sciences:ï¿½Alistair Croll,ï¿½Alex Popescu,ï¿½@rethinkdb,ï¿½Amy Heineike,ï¿½Anthony Goldbloom,ï¿½Ben Lorica,ï¿½@oreillymedia.,ï¿½Bill Hewitt,ï¿½Carla Gentry CSPO,ï¿½David Smith,ï¿½David Feinleib,ï¿½Derrick Harris,ï¿½DJ Patil,ï¿½Doug Laneyï¿½-ï¿½Edd Dumbill,ï¿½Eric Kavanagh,ï¿½Fern Halper,ï¿½Gil Press,ï¿½Gregory Piatetsky,ï¿½Hilary Mason,ï¿½Jake Porway,ï¿½James Gingerich,ï¿½James Kobielus, Jeff Hammerbacher,ï¿½Jeff Kelly,ï¿½Jim Harris,ï¿½Justin Lovell,ï¿½Kevin Weil,ï¿½Krish Krishnan,ï¿½Manish Bhatt,ï¿½Merv Adrian,ï¿½Michael Driscoll,ï¿½Monica Rogati,ï¿½Neil Raden,ï¿½Paul Philp,ï¿½Peter Skomoroch,ï¿½Philip (Flip) Kromer,ï¿½Philip Russom,ï¿½Paul Zikopoulos,ï¿½Russell Jurney,ï¿½Sid Probstein,ï¿½Stewart Townsend,ï¿½Todd Lipcon,ï¿½Troy Sadkowsky,ï¿½Vincent Granville,ï¿½William McKnight,ï¿½Yves Mulkers,ï¿½Zeeshan Usmani,ï¿½andï¿½Data Mufti.
+	A Kaggle competition: predictions of the predominant kind of tree cover, from strictly cartographic variables such
 
-The whole list will take 3 to 12 months to complete and will cost you absolutely nothing, and I can guarantee you that with this skills-set you really have to try very hard to remain jobless. Even if you complete half of it, send me a note and I will have something ready for you.
-Ball is in your court, it does not matter where you are and how much you can afford, if you want to make at least four times higher the average income of your countrymen, this is the way to do it, at least for next 10 years (where we will be generating 20 TBs of data per year per person versus 1 TB of data per year per person in the last 10 years.)
+	as elevation and soil type, using random forests, SVMs, kNNs, Naive Bayes, Gradient Descent, GMMs, …
 
-For everyone else data sciences is an opportunity, for me itï¿½s a passion.
 
-Welcome to Kaggle and start doing data science the way it should be!
 
-I've recently published a bookï¿½Kaggle for Beginners. I hope you will enjoy it.
+2021 	Neural Nets With Keras
+
+	Hands-on Machine Learning Capstone					     Keras, Tensorflow, Python, Matplotlib
+
+	Vanishing/Exploding Gradients Problem, Xavier and He Initialization Reusing Pretrained Layers, Nonsaturating
+
+	Activation Functions, Sequential, Functional and Subclass Keras models
 
 
 
@@ -82,18 +79,18 @@ I've recently published a bookï¿½Kaggle for Beginners. I hope you will enjoy it.
 
 
 
-one, 
-weekly, 
-half, 
-four, 
-second, 
-nine, 
-first, 
-three, 
-two, 
-eric, 
-derivative years, 
-months, 
-summer, 
-month, 
-hours
+tensorflow kaggle competition prediction, 
+tabular data binary classification auc python xgboost, 
+secret recipe auc eval metric forest cover type prediction machine, 
+proficient python sql, 
+kaggle competition, 
+deep learning data analysis visualization build model, 
+hackathons business intelligence project development lifecycle deep learning specialization mathematical stats foundation computer fundamental kpb hinduja, 
+higher secondary education commerce stream score sheth vidya mandir mumbai, 
+secondary school education score skill programming sw package visualization others, 
+first kaggle competition, 
+self study python, 
+python scikit, 
+communication data structure algorithm ml, 
+ankitkalauni gmail com data science enthusiast course, 
+intermediate cpp html

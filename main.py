@@ -28,7 +28,6 @@ def save_to_file(str_data, readmode = "w"):
 
 
 
-
 def process_data(uploaded_file):
         data = docx2txt.process(uploaded_file)
         logger.log(file, "data processed to str")
