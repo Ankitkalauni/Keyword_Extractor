@@ -12,16 +12,16 @@ The keyword extraction technique will sift through the whole set of data in minu
 2. make virtualenv (recommended)
 3. open and change terminal location to the project directory
 4. run the below command after activating the virtualenv
-```
+```bash
 > pip install -r requirement.txt
 ```
 5. now run the below command
-```
+```bash
 > streamlit run main.py
 ```
 The following text will be shown
 
-```
+```bash
 $ streamlit run main.py
 
   You can now view your Streamlit app in your browser.
