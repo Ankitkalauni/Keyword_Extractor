@@ -50,7 +50,7 @@ ___
 
 ## Process and edit the document online
 
-* You process the file and convert it online
+* process the file and edit it online
 ___
 ![edit doc](https://raw.githubusercontent.com/Ankitkalauni/Keyword_Extractor/main/images/edit.png)
 
