@@ -12,23 +12,24 @@ The keyword extraction technique will sift through the whole set of data in minu
 2. make virtualenv (recommended)
 3. open and change terminal location to the project directory
 4. run the below command after activating the virtualenv
-```bash
-> pip install -r requirement.txt
-```
+
+        pip install -r requirement.txt
+
 5. now run the below command
-```bash
-> streamlit run main.py
-```
+
+        streamlit run main.py
+
+
 The following text will be shown
 
-```bash
-$ streamlit run main.py
 
-  You can now view your Streamlit app in your browser.
+    $ streamlit run main.py
 
-  Local URL: http://localhost:8501
-  Network URL: http://192.168.0.105:8501
-```
+    You can now view your Streamlit app in your browser.
+
+    Local URL: http://localhost:8501
+    Network URL: http://192.168.0.105:8501
+
 
 
 **Open a browser with the local URL given in a terminal**
