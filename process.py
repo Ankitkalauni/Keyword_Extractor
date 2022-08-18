@@ -25,6 +25,7 @@ file = open("log.txt", "a+")
 logger = Logger()
 
 def preprocessing(text):
+    logger.log(file, f"starting preprocessing")
     # Make lower
     text = text.lower()
 
@@ -33,7 +34,7 @@ def preprocessing(text):
     # Remove line breaks
     text = re.sub(r'\t', '', text)
 
-    text = re.sub("[^A-Za-z0-9\s]+"," ", text)
+    text = re.sub("[^A-Za-z0-9\s\.\,]+"," ", text)
 
     text = re.sub(r'[0-9]', ' ', text)
 
@@ -43,8 +44,10 @@ def preprocessing(text):
         lis = useless_words.read().split("\n")
         try:
             stop_words = stopwords.words('english')
+            logger.log(file, f"trying to load eng stopwords from model")
 
         except:
+            logger.log(file, f"load failed downloading stopwords from nlkt")
             nltk.download('stopwords')
             stop_words = stopwords.words('english')
             lis = set(lis + stop_words)
@@ -52,21 +55,24 @@ def preprocessing(text):
             lis = lis + ['hi', 'im']
 
             try:
+                logger.log(file, f"trying loading wordlemma")
                 lem = WordNetLemmatizer()
                 lem.lemmatize("testing")
             except:
+                logger.log(file, f"loading failed trying to download wordnetm and omw 1.4")
                 #call the nltk downloader
                 nltk.download('wordnet')
                 nltk.download('omw-1.4')
                 lem = WordNetLemmatizer() #stemming
             finally:
+                logger.log(file, f"lemmatize words preprocessing done")
                 text_filtered = [lem.lemmatize(word) for word in text if not word in lis]
                 return " ".join(text_filtered)
 
 def text_process(text):
     text = preprocessing(text)
     data = textrank(text)
-
+    logger.log(file, f"text rank done")
     data = ", \n".join(str(d) for d in data)
 
     if data == "":
@@ -111,7 +117,7 @@ def tfidf(text: str) -> list:
     df.columns = ['words', 'value']
     df = df.sort_values('value', ascending = False)
 
-
+    logger.log(file, f"tfidf done returning top 50 words")
     return df.loc[:50, 'words'].tolist()
 
 
@@ -128,14 +134,15 @@ def rake(text: str) -> list:
         keywordList.append(keyword_updated_string)
         if(len(keywordList)>9):
             break
-
+    logger.log(file, f"used rake now returning")
     return keywordList
 
 
 def textrank(text):
+    logger.log(file, f"spacy + text rank function starting")
     nlp = en_core_web_sm.load()
     nlp.add_pipe("textrank")
     doc = nlp(text)
     # examine the top-ranked phrases in the document
-    return [text.text for text in doc._.phrases[:15]]
+    return [text.text for text in doc._.phrases[:40] if len(text.text) < 30]
         
