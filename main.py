@@ -14,6 +14,7 @@ from docx import Document
 file = open("log.txt", "a+")
 logger = Logger()
 
+
 def save_to_file(str_data, readmode = "w"):
     if readmode == "w":
         with open(os.path.join("userdata.txt"), readmode) as file_obj:
@@ -28,26 +29,31 @@ def save_to_file(str_data, readmode = "w"):
 
 
 
-def process_data(uploaded_file):
-        data = docx2txt.process(uploaded_file)
-        logger.log(file, "data processed to str")
-        return data
+def process_data(uploaded_file) -> str:
+        try:
+            data = docx2txt.process(uploaded_file)
+            logger.log(file, "data processed to str")
+            return data
+        except KeyError as e:
+            logger.log(file, f"data processing failed: {e}")
+            return None
+
 
 def get_doc(uploaded_file):
     if uploaded_file is not None:
 
         if st.button("proceed"):
-
-            st.subheader('Edit Data')
-            str_data = process_data(uploaded_file)
-        
-            st.session_state['str_value'] = str_data
             
-
-
-            logger.log(file, "updated data to session from doc string")
-            st.session_state['load_editor'] = True
-            return str_data
+            str_data = process_data(uploaded_file)
+            if str_data:
+                st.subheader('Edit Data')
+                st.session_state['str_value'] = str_data
+                logger.log(file, "updated data to session from doc string")
+                st.session_state['load_editor'] = True
+                return str_data
+            else:
+                st.subheader('File Corrupted please upload other file')
+                return str_data
 
 def run_editor(str_data, key = "editor"):
     # Spawn a new Quill editor

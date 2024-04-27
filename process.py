@@ -52,7 +52,7 @@ def preprocessing(text):
             stop_words = stopwords.words('english')
             lis = set(lis + stop_words)
         finally:
-            lis = lis + ['hi', 'im']
+            lis = list(lis) + ['hi', 'im']
 
             try:
                 logger.log(file, f"trying loading wordlemma")
