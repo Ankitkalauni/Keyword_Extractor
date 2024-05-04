@@ -58,7 +58,7 @@ nest-asyncio==1.6.0
 networkx==3.2.1
 nltk==3.7
 numpy==1.26.4
-packaging==24.0
+packaging
 pandas==2.2.2
 parso==0.8.4
 pathlib_abc==0.1.1
