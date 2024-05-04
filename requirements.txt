@@ -19,7 +19,7 @@ cymem==2.0.8
 debugpy==1.8.1
 decorator==5.1.1
 docx2txt==0.8
-en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz#sha256=0673b3ce4a28a19e99dc0fc3f8f7fe67b936c41749e6b70f778ec5fspacy9f78f3a66
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz
 entrypoints==0.4
 exceptiongroup==1.2.1
 executing==2.0.1
