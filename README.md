@@ -4,10 +4,10 @@
 The keyword extraction technique will sift through the whole set of data in minutes and obtain the words and phrases that best describe each subject. This way, you can easily identify which parts of the available data cover the subjects you are looking for while saving your teams many hours of manual processing.
 
 
-**Streamlit app:** https://ankitkalauni-streamlitkeywordexe-main-tgj0pu.streamlitapp.com/
+**Streamlit app:** https://keywordextract.streamlit.app/
 
 # How to download
-
+0. Python version 3.9.6
 1. Clone this repo to your local machine
 2. make virtualenv (recommended)
 3. open and change terminal location to the project directory
@@ -96,4 +96,4 @@ Learn more about - [Text Preprocessing in Natural Language Processing](https://t
 * If you have better idea and want to update this tool. please contribute to this project.
 
 
-<center> <h3><a href = "https://ankitkalauni-streamlitkeywordexe-main-tgj0pu.streamlitapp.com/">Try this tool Online</a>
+<center> <h3><a href = "https://keywordextract.streamlit.app/">Try this tool Online</a>
