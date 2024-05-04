@@ -19,7 +19,7 @@ cymem==2.0.8
 debugpy==1.8.1
 decorator==5.1.1
 docx2txt==0.8
-en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz#sha256=0673b3ce4a28a19e99dc0fc3f8f7fe67b936c41749e6b70f778ec5f9f78f3a66
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
 entrypoints==0.4
 exceptiongroup==1.2.1
 executing==2.0.1
@@ -58,7 +58,7 @@ nest-asyncio==1.6.0
 networkx==3.2.1
 nltk==3.7
 numpy==1.26.4
-packaging==24.0
+packaging==23.2
 pandas==2.2.2
 parso==0.8.4
 pathlib_abc==0.1.1
@@ -82,6 +82,7 @@ pytextrank==3.2.4
 python-dateutil==2.9.0.post0
 python-docx==0.8.11
 pytz==2024.1
+pywin32==306
 pyzmq==26.0.2
 rake-nltk==1.0.6
 referencing==0.35.0
@@ -101,8 +102,9 @@ spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 srsly==2.4.8
 stack-data==0.6.3
-streamlit==1.11.1
+streamlit==1.30.0
 streamlit-quill==0.0.3
+tenacity==8.2.3
 thinc==8.2.3
 threadpoolctl==3.4.0
 toml==0.10.2
